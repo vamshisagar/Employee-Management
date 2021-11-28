@@ -1,0 +1,84 @@
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.deps.json
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.runtimeconfig.json
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.runtimeconfig.dev.json
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.dll
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.pdb
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csproj.AssemblyReference.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.AssemblyInfoInputs.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.AssemblyInfo.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csproj.CoreCompileInputs.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorAssemblyInfo.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorAssemblyInfo.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorTargetAssemblyInfo.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.dll
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.pdb
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.genruntimeconfig.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.Views.dll
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csproj.CopyComplete
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.Views.pdb
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.TagHelpers.input.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.TagHelpers.output.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorCoreGenerate.cache
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Details.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorTargetAssemblyInfo.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.Views.pdb
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ViewImports.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Create.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Edit.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/EmployeeNotFound.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Shared/NotFound.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/Register.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Administration/CreateRole.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/GetAllUsers.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/import.cshtml.g.cs
+/Users/vamshimolla/Projects/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/AllUsers.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.deps.json
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.runtimeconfig.json
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.runtimeconfig.dev.json
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.dll
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.pdb
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.Views.dll
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/bin/Debug/netcoreapp2.2/EmployeeManagement.Views.pdb
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csproj.AssemblyReference.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.AssemblyInfoInputs.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.AssemblyInfo.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csproj.CoreCompileInputs.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorAssemblyInfo.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorAssemblyInfo.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.TagHelpers.input.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.TagHelpers.output.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorCoreGenerate.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/AllUsers.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/GetAllUsers.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/Login.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Account/Register.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Administration/CreateRole.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Create.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Details.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Edit.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/EmployeeNotFound.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/import.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Shared/NotFound.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ViewImports.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorTargetAssemblyInfo.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.RazorTargetAssemblyInfo.cs
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.Views.pdb
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.dll
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.pdb
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.genruntimeconfig.cache
+/Users/vamshimolla/Downloads/ASP.NET MVC/EmployeeManagement/EmployeeManagement/obj/Debug/netcoreapp2.2/EmployeeManagement.csproj.CopyComplete

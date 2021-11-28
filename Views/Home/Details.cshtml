@@ -1,0 +1,79 @@
+﻿@model EmployeeManagement.ViewModels.HomeDetailsViewModel
+
+@*//using viewData
+    <h1>@ViewData["pagetitle"]</h1>
+
+    @{
+        var employee = ViewData["employee"] as EmployeeManagement.Models.Employee;
+    }
+
+
+    <div>
+        Name : @employee.Name
+    </div>
+    <div>
+        Email : @employee.Email
+    </div>
+    <div>
+        Department : @employee.Department
+    </div>*@
+
+
+
+@*using viewBag*@
+
+@*<h2>@ViewBag.pagetitle</h2>
+
+    <div>
+        Name : @ViewBag.employee.Name
+    </div>
+    <div>
+        Email : @ViewBag.employee.Email
+    </div>
+    <div>
+        Department : @ViewBag.employee.Department
+    </div>*@
+
+@*Strongly typed*@
+
+@*<h2>@ViewBag.pagetitle</h2>
+
+    <div>
+        Name : @Model.Name
+    </div>
+    <div>
+        Email : @Model.Email
+    </div>
+    <div>
+        Department : @Model.Department
+    </div>*@
+
+@*View Model*@
+
+@{
+    ViewBag.Titile = "Detals of employee";
+}
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.employee.Name</h1>
+            </div>
+
+            <div class="card-body text-center">
+
+
+                <h4>Employee ID : @Model.employee.Id</h4>
+                <h4>Email : @Model.employee.Email</h4>
+                <h4>Department : @Model.employee.Department</h4>
+
+            </div>
+            <div class="card-footer text-center">
+                <a asp-controller="Home" asp-action="index" class="btn btn-primary">Back</a>
+                @*<a href="#" class="btn btn-primary">Edit</a>
+                <a href="#" class="btn btn-danger">Delete</a>*@
+            </div>
+        </div>
+    </div>
+</div>

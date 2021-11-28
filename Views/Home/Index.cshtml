@@ -1,0 +1,40 @@
+﻿@model IEnumerable<EmployeeManagement.Models.Employee>
+
+@{
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "employeeList";
+}
+
+
+         <table class="table">
+                <thead class= "table-primary">
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Department</th>
+                        <th> action</th>
+                    </tr>
+                    
+                </thead>
+                <tbody>
+                    @foreach (var employee in Model)
+                    {
+                        <tr>
+                            <td>@employee.Id</td>
+                            <td>@employee.Name</td>
+                            <td>@employee.Email</td>
+                            <td>@employee.Department</td>
+                            <td>
+                                <div>
+                                    <a asp-controller="Home" asp-action="details" asp-route-id="@employee.Id" class="btn btn-primary">View</a>
+                                    <a asp-controller="Home" asp-action="Edit" asp-route-id="@employee.Id" class="btn btn-secondary">Edit</a>
+                                    <a asp-controller="Home" asp-action="Delete" asp-route-id="@employee.Id" class="btn btn-danger">Delete</a>
+                                </div>
+                            </td>
+                        </tr>
+                        
+                    }
+                </tbody>
+        </table>    
+

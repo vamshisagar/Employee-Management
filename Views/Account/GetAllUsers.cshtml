@@ -1,0 +1,101 @@
+﻿@model IEnumerable<ApplicationUser>
+@inject UserManager<ApplicationUser> usermanager;
+
+@{
+
+    ViewBag.Title = "All Users";
+
+
+}
+
+<h1>All Users</h1>
+
+<table class="table">
+    <thead class="table-primary">
+        <tr>
+
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+
+        <tr>
+
+            <td>@user.UserName</td>
+            <td>@user.Email</td>
+            @foreach (var i in await usermanager.GetRolesAsync(user))
+            {
+     
+                    <td>@i</td>
+                
+            }
+            <td>
+                <div>
+                    <a asp-controller="Account" asp-action="Edit" asp-route-id="@user.Id" class="btn btn-primary">Edit</a>
+                    <a asp-controller="Account" asp-action="Delete" asp-route-id="@user.Id" class="btn btn-secondary">Delete</a>
+                    <a asp-controller="Account" asp-action="LockUnlock" asp-route-id="@user.Id" class="btn btn-warning">Lock</a>
+                </div>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>
+
+
+
+
+
+
+@*@if (Model.Any())
+    {
+        <a class="btn btn-primary mb-3" style="width:auto" asp-action="Register"
+           asp-controller="Account">register New User</a>
+
+
+        <table class="table">
+            <thead class="table-primary">
+                <tr>
+
+                    <th scope="col">Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">active</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+
+                    <tr>
+
+                        <td>@user.UserName</td>
+                        <td>@user.Email</td>
+                        <td>@user.LockoutEnabled</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="card">
+            <div class="card-header">
+                No roles created yet
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">
+                    Use the button below to create a role
+                </h5>
+                <a class="btn btn-primary" style="width:auto"
+                   asp-controller="administration" asp-action="CreateRole">
+                    Create Role
+                </a>
+            </div>
+    </div>
+    }*@
